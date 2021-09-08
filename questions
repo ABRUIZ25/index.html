@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+ <h1> quetions about you</h1>
+    <p>
+        
+        <ol>where do you live?</ol>
+        <ol> old are you?</ol>
+        <ol>what was your last job?</ol>
+        <ol> what do you like to do for fun?</ol>
+        <ol> do you have kids?</ol>
+        <ol>do you have any animals?</ol>
+        <ol>what color cant you stand?</ol>
+        <ol>what color combo do you like?</ol>
+        <ol>fun fact about you?</ol>
+        <ol>what could you eat everyday?</ol>
+    </p>
+ 
+ 
+    
+</body>
+</html>
